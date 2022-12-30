@@ -1,2 +1,2 @@
 # python-programming
- inn this repo i upload my python tasks which i cimopleting at learing phase
+ In this repository I upload my python tasks which I completed at learing phase.
