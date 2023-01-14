@@ -10,7 +10,7 @@ def lung(): # this function shows the list of diseases and their treatment for L
     elif disease.upper() == 'LUNG CANCER' :
         print("Lung Cancer Treatments are: \n 1. Radiotherapy \n 2. Chemotherapy\n 3. Surgery \n 4. Alternative Medicine \n")
     else :
-        print("Please input the correct disease name as mentioned above")
+        print("Please input the correct disease name as mentioned above")  #testing
 
 def heart(): # this function shows the list of diseases and their treatment for Heart
      print("Heart Diseases are: \n1. Heart attack \n 2. Angina \n 3. Hypertension \n 4. Arrythmia\n")
